@@ -1,8 +1,0 @@
-
-An error occurred!  -----  In File: secondPerrors.am  -----  In line number: 1  -----  Error type:
-Entry label wasn't defined at file.
-
-
-Errors encountered while parsing the 'am' file (In File: secondPerrors.am).
-Object('.ob'), external('.ext'), entry('.ent') files will not be created.
-Getting next input file (if exist).
