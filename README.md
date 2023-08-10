@@ -9,7 +9,7 @@ Assembler for C90 language, which includes over 70 different types of errors and
 
 All information in the project is hidden from the user and the principles of encapsulation have been fully implemented.
 
-The assembler includes over 70 different types of errors and warnings (printed in the file error.c file and you can see the details and examples in the folder: output__files_for_example).
+The assembler includes over 70 different types of errors and warnings (printed in the file error.c file and you can see the details and examples in the folder: output_files_for_example).
 
 Program inputs:
 
@@ -43,10 +43,10 @@ In addition, in order to compile the program according to the C90 standard, I us
 
 Ubuntu 16.04. No other version is allowed.
 
-valgrind showed 0 leaks and errors on dozens of different runs,  images for example are attached in the output__files_for_example.
+valgrind showed 0 leaks and errors on dozens of different runs,  images for example are attached in the output_files_for_example.
 
 Project assumptions are listed throughout.
 
 Full and detailed documentation is accessible throughout the project.
 
-Running images and examples appear in the appropriate folder (output__files_for_example) attached are output files for all types of errors and warnings and also a proper and working main running file.
+Running images and examples appear in the appropriate folder (output_files_for_example) attached are output files for all types of errors and warnings and also a proper and working main running file.
