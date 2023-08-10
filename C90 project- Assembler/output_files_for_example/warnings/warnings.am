@@ -1,0 +1,11 @@
+LABEL1: .entry LABEL10
+LABEL10: mov @r1, @r2
+LABEL2: .extern LABEL11
+.string 
+.data
+LABEL3:
+.extern LABEL4
+.extern LABEL4
+LABEL5: mov @r1, @r2
+.entry LABEL5
+.entry LABEL5

@@ -1,0 +1,35 @@
+
+An error occurred! ----- In File: firstPlabelE.am ----- In line number: 1 ----- Error type:
+Label name should start with a letter.
+
+An error occurred! ----- In File: firstPlabelE.am ----- In line number: 2 ----- Error type:
+Label name should contain only letters and numbers.
+
+An error occurred! ----- In File: firstPlabelE.am ----- In line number: 3 ----- Error type:
+Label max length is 31.
+
+An error occurred! ----- In File: firstPlabelE.am ----- In line number: 4 ----- Error type:
+Label name can't be an OPCODE name.
+
+An error occurred! ----- In File: firstPlabelE.am ----- In line number: 5 ----- Error type:
+Label name can't be a register name.
+
+An error occurred! ----- In File: firstPlabelE.am ----- In line number: 7 ----- Error type:
+Label name can't be redefined.
+
+An error occurred! ----- In File: firstPlabelE.am ----- In line number: 9 ----- Error type:
+Label can't be both external and entry.
+
+An error occurred! ----- In File: firstPlabelE.am ----- In line number: 10 ----- Error type:
+Label name can't define a label.
+
+An error occurred! ----- In File: firstPlabelE.am ----- In line number: 11 ----- Error type:
+Illegal two consecutive colons.
+
+An error occurred! ----- In File: firstPlabelE.am ----- In line number: 12 ----- Error type:
+A label name must end with consecutive colons ':'.
+
+
+Errors encountered while parsing the 'am' file (In File: firstPlabelE.am).
+Object('.ob'), external('.ext'), entry('.ent') files will not be created.
+Getting next input file (if exist).
