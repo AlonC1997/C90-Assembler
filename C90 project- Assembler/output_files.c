@@ -3,7 +3,6 @@
  * Name: Alon Carmel.
  * ID: 319004305.
  * Course number: 20465.
- * Date of Submission: 10/08/2023
  * -------------------------
  * File name: output_files.c
  * -------------------------
