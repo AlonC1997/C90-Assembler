@@ -1,0 +1,21 @@
+
+Warning!  -----  In File: warnings.am  -----  In line number: 1  -----  Error type:
+No label should appear before '.entry' directive sentence. 
+
+Warning!  -----  In File: warnings.am  -----  In line number: 3  -----  Error type:
+No label should appear before '.extern' directive sentence. 
+
+Warning!  -----  In File: warnings.am  -----  In line number: 4  -----  Error type:
+'.string' directive sentence is empty. 
+
+Warning!  -----  In File: warnings.am  -----  In line number: 5  -----  Error type:
+'.data' directive sentence is empty. 
+
+Warning!  -----  In File: warnings.am  -----  In line number: 6  -----  Error type:
+The label defined nothing- No content at all, the label will not be saved. 
+
+Warning!  -----  In File: warnings.am  -----  In line number: 8  -----  Error type:
+Declaration of extern label twice is unnecessary. 
+
+Warning!  -----  In File: warnings.am  -----  In line number: 11  -----  Error type:
+Declaration of entry label twice is unnecessary. 

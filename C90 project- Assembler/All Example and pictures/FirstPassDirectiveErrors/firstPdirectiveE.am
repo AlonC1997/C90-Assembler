@@ -1,0 +1,12 @@
+..extern label
+.extern label1
+label1: mov @r1, @r2
+.entry Label2,
+.extern
+.entry label3 ,label4
+.entry
+.data @r1 , 3
+.data +2,-2, 
+.string xyz
+.string "xyz
+.string "first" , "second_not_allowed"
