@@ -5,8 +5,6 @@ C project 12 bit Assembler (C90 standard).
 
 The open university of Israel- final project for course number 20465- System Programming Laboratory.
 
-Assembler for C90 language.
-
 All information in the project is hidden from the user and the principles of encapsulation have been fully implemented.
 
 The assembler includes over 70 different types of errors and warnings (printed in the file error.c file and you can see the details and examples in the folder: output_files_for_example).
