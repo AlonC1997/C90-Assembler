@@ -1,15 +1,17 @@
-### C90-Assembler
+### C90- 12 bit Assembler
 
-## Final project for course number 20465- System Programming Laboratory: 
-## C project 12 bit Assembler (C90 standard).
+## *Final project for course number 20465- System Programming Laboratory:* 
+
 
 -All information in the project is hidden from the user and the principles of encapsulation have been fully implemented.
 
 -The assembler includes over 70 different types of errors and warnings (printed in error.c file and you can see the details and examples in the folder: output_files_for_example).
 
+
 # *Program inputs:*
 
 -File names to parse without the ('.as') extension, the program will add the extension independently.
+
 
 # *Program outputs:*
 
@@ -21,7 +23,7 @@
 
 -'.am' is the file after spreading macros, deleting white lines, deleting leading white characters until the first non-white character appears and deleting --legal comment lines--.
 
-Note1: *legal comment line is only if ';' (which marks a comment line) will appear as the first character without spaces before, otherwise the comment line is Ilegal and this error will be detected during the first pass as required.*
+ **Note1:** *legal comment line is only if ';' (which marks a comment line) will appear as the first character without spaces before, otherwise the comment line is Ilegal and this error will be detected during the first pass as required.*
 
 -If the macros spreading was carried out correctly and the '.am' file was created ---> first pass will start. ('.am' file will be the file to be analyzed in the first pass).
 
@@ -29,9 +31,12 @@ Note1: *legal comment line is only if ';' (which marks a comment line) will appe
 
 -In any case, the program has no limitation of input files and every time one file is finished analyzing, it will immediately switch to another one that is received as arguments.
 
- Note2: *If a fatal error occurred- the whole program will end completely and error details will be printed.*
+ **Note2:** *If a fatal error occurred- the whole program will end completely and error details will be printed.*
+ 
 
- Note3: *Prohibitions: It is forbidden to use stdbool.h (or any other non c90 standard libary) and therefore I made TRUE & FALSE macros.*
+# *Compiling and writing:*
+
+ **Note3:** *Prohibitions: It is forbidden to use stdbool.h (or any other non c90 standard libary) and therefore I made TRUE & FALSE macros.*
 
 -I writed the project in the Visual Studio IDE.
 
@@ -44,7 +49,7 @@ Note1: *legal comment line is only if ';' (which marks a comment line) will appe
 -Valgrind showed 0 leaks and errors on dozens of different runs
 
 
-# Folder output_files_for_example is contain: 
+# *Folder output_files_for_example is contain:* 
 
 1) Running images and explanation of all errors and warnings.
 
