@@ -15,7 +15,7 @@ Program inputs:
 
 Program outputs:
 
--The main output is presented in the (.ob) object file you get after converting 12 bits to base64 (this file will be created if and only if no errors occurred at all).
+-The main output is presented in the (.ob) object file you get after converting 12 bits to Base64 (this file will be created if and only if no errors occurred at all).
 
 -In addition, there are 3 different output files that will accompany the program, the stages of which are as follows:
 
