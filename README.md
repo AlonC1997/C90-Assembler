@@ -21,9 +21,9 @@ Program outputs:
 
 -If no errors were detected in the macro layout transition--> .am.
 
--'.am' is the file after spreading macros, deleting white line, delete spaces until the first non-white character appears and deleting comment lines.
+-'.am' is the file after spreading macros, deleting white line, delete spaces until the first non-white character appears and deleting legal comment lines.
 
-Note: correct command line is only if - ';' (which marks a comment line) will appear as the first character without spaces before, otherwise the comment line is incorrect and this error will be detected during the first pass as required.
+Note: legal command line is only if - ';' (which marks a comment line) will appear as the first character without spaces before, otherwise the comment line is incorrect and this error will be detected during the first pass as required.
 
 -If the the macros spreading was carried out correctly and the '.am' file was created ---> first pass will start. (The .am file will be the file to be analyzed in the first pass).
 
