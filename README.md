@@ -1,6 +1,6 @@
 ### C90- 12 bit Assembler
 
-## *Final project for course number 20465- System Programming Laboratory:* 
+## Final project for course number 20465- System Programming Laboratory:
 
 
 -All information in the project is hidden from the user and the principles of encapsulation have been fully implemented.
