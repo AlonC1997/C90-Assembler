@@ -36,7 +36,7 @@
 
 # *Compiling and writing:*
 
- **Note3:** *Prohibitions: It is forbidden to use stdbool.h (or any other non c90 standard libary) and therefore I made TRUE & FALSE macros.*
+ **Note3:** *It is forbidden to use stdbool.h (or any other non c90 standard libary) and therefore I made TRUE & FALSE macros.*
 
 -I writed the project in the Visual Studio IDE.
 
