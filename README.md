@@ -1,6 +1,7 @@
 # C90-Assembler
 
-# Final project for course number 20465- System Programming Laboratory: C project 12 bit Assembler (C90 standard).
+# Final project for course number 20465- System Programming Laboratory: 
+# C project 12 bit Assembler (C90 standard).
 
 -All information in the project is hidden from the user and the principles of encapsulation have been fully implemented.
 
@@ -20,7 +21,7 @@
 
 -'.am' is the file after spreading macros, deleting white lines, deleting leading white characters until the first non-white character appears and deleting --legal comment lines--.
 
-# Note1: *legal comment line is only if ';' (which marks a comment line) will appear as the first character without spaces before, otherwise the comment line is Ilegal and this error will be detected during the first pass as required.*
+# Note1: # *legal comment line is only if ';' (which marks a comment line) will appear as the first character without spaces before, otherwise the comment line is Ilegal and this error will be detected during the first pass as required.*
 
 -If the macros spreading was carried out correctly and the '.am' file was created ---> first pass will start. ('.am' file will be the file to be analyzed in the first pass).
 
