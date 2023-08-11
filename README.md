@@ -1,5 +1,5 @@
-# C90-Assembler
-Final project for course number 20465- System Programming Laboratory: C project 12 bit Assembler (C90 standard).
+*# C90-Assembler*
+*Final project for course number 20465- System Programming Laboratory: C project 12 bit Assembler (C90 standard).*
 
 All information in the project is hidden from the user and the principles of encapsulation have been fully implemented.
 
