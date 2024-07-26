@@ -1,10 +1,5 @@
 ### C90- 12 bit Assembler
 
-## Final project for course number 20465- System Programming Laboratory:
-## Final Course Grade- 94.
-## Project Grade- 92. 
-
-
 -All information in the project is hidden from the user and the principles of encapsulation have been fully implemented.
 
 -The assembler includes over 70 different types of errors and warnings (printed in error.c file and you can see the details and examples in the folder: output_files_for_example).
