@@ -1,9 +1,11 @@
 ### C90- 12 bit Assembler
+# *Summary:*
 
--All information in the project is hidden from the user and the principles of encapsulation have been fully implemented.
-
--The assembler includes over 70 different types of errors and warnings (printed in error.c file and you can see the details and examples in the folder: output_files_for_example).
-
+- Developed a C90-compliant 12-bit assembler in C, focusing on encapsulation and error handling.
+- Optimized algorithms, enhancing proficiency in compiler design and Linux systems and debugging skills.
+- Implemented comprehensive error detection with over 70 types of errors and warnings.
+- Ensured compliance with C90 standard using WSL2 for compilation.
+- Achieved zero memory leaks and errors as validated by Valgrind.
 
 # *Program inputs:*
 
